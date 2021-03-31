@@ -3,8 +3,7 @@
 
 # 
 # 
-# Authors :     Eoghan O'Connor    Luke Vickery
-# Student I.Ds: 16110625           16110501
+# Authors :     Eoghan O'Connor
 # 
 # File Name: trainer.py ,
 # 
