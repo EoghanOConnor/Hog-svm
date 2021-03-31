@@ -1,4 +1,4 @@
-#Hog svm sign dectector
+# Hog svm sign dectector
 
 
 Description: THe Hog-SVM dectects road signs in images. This is down by using a sliding window over each image. creates smaller images "windows" to be classified.
