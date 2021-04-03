@@ -1,7 +1,7 @@
 # Hog svm sign dectector
 
 
-Description: THe Hog-SVM dectects road signs in images. This is down by using a sliding window over each image. creates smaller images "windows" to be classified.
+Description: The Hog-SVM dectects road signs in images. This is done by using a sliding window over the image. This creates smaller images or "windows" to be classified.
 A trained Machine learning Classifier is then used to identify if there is a sign in the window.
 
 
