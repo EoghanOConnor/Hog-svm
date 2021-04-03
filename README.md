@@ -6,8 +6,8 @@ A trained Machine learning Classifier is then used to identify if there is a sig
 
 
 
+![image](https://user-images.githubusercontent.com/45408401/113484456-44824b80-94a0-11eb-8dd2-911c77b5255b.png)
 
-![image](https://user-images.githubusercontent.com/45408401/113484438-2e748b00-94a0-11eb-8cbb-58fc77a02779.png)
 
 
 Trainer.py
