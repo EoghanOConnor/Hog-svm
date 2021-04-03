@@ -5,8 +5,8 @@ Description: THe Hog-SVM dectects road signs in images. This is down by using a 
 A trained Machine learning Classifier is then used to identify if there is a sign in the window.
 
 
+![image](https://user-images.githubusercontent.com/45408401/113484531-b064b400-94a0-11eb-891f-9af2b748ce4d.png)
 
-![image](https://user-images.githubusercontent.com/45408401/113484456-44824b80-94a0-11eb-8dd2-911c77b5255b.png)
 
 
 
